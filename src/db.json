@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Gabriel",
+      "empresa": "Betterware",
+      "email": "victor@gmail.com",
+      "telefono": "3312883727",
+      "notas": "asdasdads",
+      "id": 1
+    },
+    {
+      "nombre": "Victor",
+      "empresa": "Betterware",
+      "email": "victor@gmail.com",
+      "telefono": "3312883727",
+      "notas": "asdasdads",
+      "id": 2
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Construcciones",
+      "email": "cons@gmail.com",
+      "telefono": "3344556677",
+      "notas": "sadasdasd",
+      "id": 3
+    }
+  ]
+}
